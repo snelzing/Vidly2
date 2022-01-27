@@ -1,2 +1,2 @@
 # Vidly2
-Based off of Mosh's ASP.NET course 
+Sort of based off of Mosh's ASP.NET course 
